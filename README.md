@@ -13,7 +13,7 @@ welcome fork and if the model help you please click the star!
 
 and thanks Jason Brownlee, I learn much from his post!
 
-![image](https://github.com/Dreamscape9999/Stock-predict-OCLHV/blob/master/candle%20stick.png)
+![image](https://github.com/Dreamscape9999/Stock-predict-OCLHV/blob/master/candle%20stick%20compare.JPG)
 
 base rmse is : 0.2904378684262996
 
