@@ -9,7 +9,7 @@ draw candle sticks of actual and forecast of next day, because I see the RMSE of
 
 the model is not perfect, let's make it perfect together!
 
-if you the model help you please click the star!
+welcome fork and if the model help you please click the star!
 
 and thanks Jason Brownlee, I learn much from his post!
 
