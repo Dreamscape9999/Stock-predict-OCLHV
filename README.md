@@ -12,7 +12,9 @@ the model is not perfect, let's make it perfect together!
 if you the model help you please click the star!
 
 and thanks Jason Brownlee, I learn much from his post!
+
 https://github.com/Dreamscape9999/Stock-predict-OCLHV/blob/master/candle%20stick.png
+
 base rmse is : 0.2904378684262996
 base rmse is : 0.28720907060098017
 base rmse is : 0.2573707598121423
