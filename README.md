@@ -1,5 +1,5 @@
 # Stock-predict-OCLHV
-predict the open close low high and volume of stocks
+   predict the open close low high and volume of stocks
 
 input the data of K of current, predict the K of next three days
 
