@@ -1,6 +1,6 @@
-      # Stock-predict-OCLHV
-      predict the open close low high and volume of stocks
-      input the data of K of current, predict the K of next three days
+   # Stock-predict-OCLHV
+   predict the open close low high and volume of stocks
+   input the data of K of current, predict the K of next three days
 
 print base RMSE and RMSE of each open close low high and volume of forecasts
 
